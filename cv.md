@@ -37,7 +37,7 @@ I have no commercial development experience yet.
 
 - [BestMovies](https://olgamarty.github.io/bestmovies/) - my small training project to practice working with API.
 - [Photographer's portfolio](https://olgamarty.github.io/rsschool_pre_2022/portfolio/) - landing page advertising photography services.
-- [Photographer's portfolio](https://olgamarty.github.io/rsschool_pre_2022/eco-sounds/) - the sounds of nature and the voices of birds.
+- [Eco-sounds](https://olgamarty.github.io/rsschool_pre_2022/eco-sounds/) - the sounds of nature and the voices of birds.
 
 ---
 
